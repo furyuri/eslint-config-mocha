@@ -1,8 +1,8 @@
 # eslint-config-mocha
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/dsmjs/eslint-config-mocha.svg)](https://greenkeeper.io/)
-
-Shareable config for ESLint for Mocha tests
+[Shareable config](https://eslint.org/docs/developer-guide/shareable-configs#shareable-configs)
+for [ESLint](https://eslint.org) for 
+[Mocha](https://mochajs.org) tests
 
 <!-- status badges -->
 [![Build Status][ci-badge]][ci-link]
@@ -26,6 +26,7 @@ $ npm install @dsmjs/eslint-config-mocha --save-dev
 [![Commitizen friendly][commitizen-badge]][commitizen-link]
 [![semantic-release][semantic-release-badge]][semantic-release-link]
 [![PRs Welcome][PRs-badge]][PRs-link]
+[![Greenkeeper badge](https://badges.greenkeeper.io/dsmjs/eslint-config-mocha.svg)](https://greenkeeper.io/)
 
 ### Dependencies
 
