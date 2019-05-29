@@ -1,5 +1,7 @@
 # eslint-config-mocha
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dsmjs/eslint-config-mocha.svg)](https://greenkeeper.io/)
+
 Shareable config for ESLint for Mocha tests
 
 <!-- status badges -->
