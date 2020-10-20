@@ -4,3 +4,4 @@ repository:
   description: Shareable config for ESLint for Mocha tests
   homepage: 'https://npm.im/@dsmjs/eslint-config-mocha'
   private: false
+  topics: hacktoberfest
